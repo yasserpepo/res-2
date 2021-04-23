@@ -262,10 +262,11 @@ svg{
   position:relative;
   margin-bottom:5px;
   color:inherit;
+  font-size:10px
 }
-.fo-left a{
-  font-size:5px ;color:red
-}
+
+  
+
 .fo-left a i{
   font-size:10px;
   margin-right:5px
