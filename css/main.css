@@ -240,7 +240,7 @@ svg{
 }
 .footer{
   display:grid;
-  grid-template-columns: 300px 500px;
+  grid-template-columns: 300px 450px;
   Justify-content:space-between;
   color:var(--very-pale-blue);
 }
@@ -264,9 +264,6 @@ svg{
   color:inherit;
   font-size:10px
 }
-
-  
-
 .fo-left a i{
   font-size:10px;
   margin-right:5px
